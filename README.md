@@ -10,4 +10,4 @@ This project deploys a secure, static website to AWS S3 using Terraform, backed 
 
 ### 🚀 CloudFront + HTTPS
 
-![CloudFront](screenshots/cloudfront.png)
+![CloudFront](/cloudfront.png)
