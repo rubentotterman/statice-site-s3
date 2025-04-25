@@ -1,0 +1,19 @@
+# Terraform files
+.terraform/
+*.tfstate
+*.tfstate.backup
+crash.log
+terraform.tfvars
+
+# IDE/editor files
+.vscode/
+*.swp
+*.swo
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Ignore big screenshots (if needed)
+# screenshots/*.png
